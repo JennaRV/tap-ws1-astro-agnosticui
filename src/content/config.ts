@@ -105,5 +105,5 @@ const testCollection = defineCollection({
 export const collections = {
   'events': eventCollection,
   'projects': projectCollection,
-  'faculty': facultyCollection,
+  'faculties': facultyCollection,
 };
